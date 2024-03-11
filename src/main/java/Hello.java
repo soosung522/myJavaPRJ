@@ -7,5 +7,7 @@ public class Hello {
         System.out.println("Edit Java Code!!");
 
         System.out.println("Edit JAva Code2!!");
+
+        System.out.println("Hello My Forth Java Coding!!");
     }
 }
